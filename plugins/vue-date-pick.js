@@ -1,0 +1,1 @@
+import DatePick from 'vue-date-pick';
